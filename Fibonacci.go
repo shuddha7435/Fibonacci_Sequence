@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func fibonacci(n int) int {
+func fibSequence(n int) int {
 	x := 0
 	y := 1
 	// We iterate until we get the desired position in the sequence
