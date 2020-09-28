@@ -1,6 +1,7 @@
 # Fibonacci_Sequence
 
-Here I have written the Fibonacci Sequence program in golang. I have used comments to explain the code.
+Here I have written the Fibonacci Sequence program in golang. Full code is here in the repository. 
+I have used comments to explain the code.
 
 I have displayed the first 30 Fibonacci numbers.
 
