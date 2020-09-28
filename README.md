@@ -9,4 +9,4 @@ I used Goland IDE to write the code.
 
 Here I have attached the output from GoLand IDE.
 
-![Fibonacci](https://user-images.githubusercontent.com/16424882/94463784-1afc0680-0183-11eb-8c1a-befedc57840e.JPG)
+![Fibonacci - 1](https://user-images.githubusercontent.com/16424882/94464761-809cc280-0184-11eb-997a-abf97bb19771.JPG)
